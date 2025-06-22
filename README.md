@@ -45,7 +45,7 @@
         <sub>Mining Digital Gold</sub>
       </td>
      
-    </tr>
+    
   </table>
 </div>
 
