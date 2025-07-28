@@ -147,36 +147,6 @@
 
 ---
 
-## 🎯 CURRENT NEURAL OBJECTIVES
-
-<div align="center">
-  
-  ```python
-  class AIEngineer:
-      def __init__(self):
-          self.name = "Shwetanshu"
-          self.role = "AI Architect & Neural Network Specialist"
-          self.current_focus = [
-              "🧠 Building AGI prototypes",
-              "🚀 Optimizing transformer architectures", 
-              "🔬 Exploring consciousness in machines",
-              "🌌 Creating quantum-classical hybrid models"
-          ]
-          self.goals_2025 = {
-              "build": "Revolutionary AI applications",
-              "learn": "Advanced quantum computing",
-              "contribute": "Open source AI community",
-              "achieve": "Artificial General Intelligence breakthrough"
-          }
-      
-      def current_status(self):
-          return "🚀 Pushing the boundaries of what's possible with AI"
-  ```
-  
-</div>
-
----
-
 ## 💡 WISDOM FROM THE DIGITAL REALM
 
 <div align="center">
@@ -193,21 +163,6 @@
 
 ---
 
-## 🔮 NEURAL NETWORK VISUALIZATION
-
-<div align="center">
-  
-  ```
-     🧠 CONSCIOUSNESS LAYER
-          ↓ ↓ ↓
-     🔗 ATTENTION MECHANISMS  
-          ↓ ↓ ↓
-     ⚡ TRANSFORMER BLOCKS
-          ↓ ↓ ↓
-     🎯 PATTERN RECOGNITION
-          ↓ ↓ ↓
-     💫 CREATIVE OUTPUT
-  ```
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting%20my%20neural%20network!&fontSize=16&fontColor=fff&animation=twinkling"/>
   
